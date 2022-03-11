@@ -1,5 +1,5 @@
 name: NameTagStats
 main: NameTagStats\NameTagStats
-api: 3.14.0
+api: 4.0.0
 author: ByNamles
-version: 0.1
+version: 0.2
