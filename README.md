@@ -1,5 +1,5 @@
 # NameTagStats
-
+NameTagStats plugin for PocketMine-MP 4!
 # Features
 - Show NameTag
 - Show CPS
